@@ -1,5 +1,57 @@
 # PRODUCT.md — Vinora
 
+<!-- impeccable:product-schema 1 -->
+
+## Platform
+
+web
+
+## Stack
+
+Astro (user-chosen, static output). Keep dependencies minimal per ARCHITECTURE.md; any contact-form or booking integration is a separate, approved decision.
+
+## Users
+
+Established businesses with real operational complexity (manufacturing, construction, roofing and building materials, distribution, multi-department or multi-location companies). Two readers share the decision: an operations head who feels the daily pain, researches and shortlists; and the owner or MD, who decides and signs off. The site must work for both. The job: judge whether Vinora can build software around how their business actually runs, then book a discovery call.
+
+## Product Purpose
+
+The website exists to generate qualified discovery-call bookings for Vinora LLP, not to showcase a catalogue or serve as a generic agency site. Success is a qualified enquiry from a business that justifies a custom software engagement.
+
+## Positioning
+
+Vinora builds ERP and automation around the business's actual working methods, down to individual functions, permissions, notifications and operational details, instead of making the business adapt to predefined modules. A packaged-ERP vendor cannot truthfully claim this. "Anything and everything" describes the approach to customisation, not an unlimited guarantee.
+
+## Operating Context
+
+The buyer typically runs on Excel sheets, manual registers and disconnected tools. The conversion path is website, then discovery call, then requirement understanding, proposed solution, demo, commercial discussion. A demo is never the first step. Primary CTA: Book a Discovery Call. Secondary CTA: Discuss Your Requirements.
+
+## Capabilities and Constraints
+
+Custom ERP, business automation, custom software and integrations (see sections 3 and 6 below). No fixed delivery timelines or pricing without approval. No certifications or partnerships claimed without verification. Pages proposed in ARCHITECTURE.md: Home, Services, About, Contact; Portfolio deferred. Open: booking integration, hosting and deployment, final page structure.
+
+## Brand Commitments
+
+Existing blue-and-white identity. Voice: capable and confident without arrogance; practical business language; no hype, aggressive sales language or empty corporate jargon. Never positioned as merely a website agency.
+
+## Evidence on Hand
+
+The owner confirms a logo file, exact brand HEX colours and contact details (business email, phone, booking details) exist, but none are in the repository yet; they must be supplied before use and never guessed. Absent and must not be fabricated: client testimonials, customer statistics, project results, case studies, portfolio work, pricing, certifications, partnerships, company history and headcount.
+
+## Product Principles
+
+1. Customisation is the claim; every section proves it with concrete operational detail, not adjectives.
+2. Speak in the buyer's practical language (registers, stock, orders, approvals), not digital-transformation jargon.
+3. Credibility comes from precision and process clarity, not invented proof.
+4. Discovery call first; the path to it is always one clear step away.
+5. Every section earns its place by answering one of the content-principle questions.
+
+## Accessibility & Inclusion
+
+Keyboard navigation, visible focus, sufficient contrast, semantic HTML, reduced-motion support (per ARCHITECTURE.md section 8).
+
+---
+
 ## 1. Company Overview
 
 **Company:** Vinora LLP
